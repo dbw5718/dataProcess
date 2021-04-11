@@ -6,4 +6,3 @@ Deduplicate and merge csv file data
 * Duplicate rows in the file can be deduplicated according to the content of a certain column
 ##Confirm
 * Verify the correctness of data deduplication
-tachyon
